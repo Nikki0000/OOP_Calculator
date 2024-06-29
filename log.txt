@@ -1,0 +1,12 @@
+июн. 29, 2024 8:01:50 PM service.CalculatorService calcOperations
+INFO: Начало операции: -, с параметрами 8.0 и 2.0
+июн. 29, 2024 8:01:50 PM service.CalculatorService calcOperations
+INFO: Операция вычитания чисел 8.0 и 2.0 отдает результат 6.0
+июн. 29, 2024 8:01:58 PM service.CalculatorService calcOperations
+INFO: Начало операции: *, с параметрами 8.0 и 2.0
+июн. 29, 2024 8:01:58 PM service.CalculatorService calcOperations
+INFO: Операция умножения чисел 8.0 и 2.0 отдает результат 16.0
+июн. 29, 2024 8:02:05 PM service.CalculatorService calcOperations
+INFO: Начало операции: /, с параметрами 9.0 и 3.0
+июн. 29, 2024 8:02:05 PM service.CalculatorService calcOperations
+INFO: Операция деления чисел 9.0 и 3.0 отдает результат 3.0
