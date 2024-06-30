@@ -2,16 +2,16 @@ package model;
 
 public class CalculatorModel {
     
-    private double firstNum;
-    private double secondNum;
+    private ComplexNumberModel firstNum;
+    private ComplexNumberModel secondNum;
     private char op;
-    private double result;
+    private ComplexNumberModel result;
 
-    public double getFirstNum() {
+    public ComplexNumberModel getFirstNum() {
         return firstNum;
     }
 
-    public double getSecondNum() {
+    public ComplexNumberModel getSecondNum() {
         return secondNum;
     }
 
@@ -19,15 +19,15 @@ public class CalculatorModel {
         return op;
     }
 
-    public double getResult() {
+    public ComplexNumberModel getResult() {
         return result;
     }
 
-    public void setFirstNum(double firstNum) {
+    public void setFirstNum(ComplexNumberModel firstNum) {
         this.firstNum = firstNum;
     }
 
-    public void setSecondNum(double secondNum) {
+    public void setSecondNum(ComplexNumberModel secondNum) {
         this.secondNum = secondNum;
     }
 
@@ -35,7 +35,7 @@ public class CalculatorModel {
         this.op = op;
     }
 
-    public void setResult(double result) {
+    public void setResult(ComplexNumberModel result) {
         this.result = result;
     }
 

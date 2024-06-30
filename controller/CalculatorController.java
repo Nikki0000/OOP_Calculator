@@ -1,6 +1,7 @@
 package controller;
 
 import model.CalculatorModel;
+import model.ComplexNumberModel;
 import service.CalculatorService;
 
 public class CalculatorController {
@@ -14,7 +15,7 @@ public class CalculatorController {
     }
     
     public void operationCalc() {
-        double result = cService.calcOperations(cModel.getFirstNum(), cModel.getSecondNum(), cModel.getOp());
+        ComplexNumberModel result = cService.calcOperations(cModel.getFirstNum(), cModel.getSecondNum(), cModel.getOp());
         cModel.setResult(result);
         System.out.println("Результат: " + result);
     }

@@ -1,12 +1,16 @@
-июн. 29, 2024 8:01:50 PM service.CalculatorService calcOperations
-INFO: Начало операции: -, с параметрами 8.0 и 2.0
-июн. 29, 2024 8:01:50 PM service.CalculatorService calcOperations
-INFO: Операция вычитания чисел 8.0 и 2.0 отдает результат 6.0
-июн. 29, 2024 8:01:58 PM service.CalculatorService calcOperations
-INFO: Начало операции: *, с параметрами 8.0 и 2.0
-июн. 29, 2024 8:01:58 PM service.CalculatorService calcOperations
-INFO: Операция умножения чисел 8.0 и 2.0 отдает результат 16.0
-июн. 29, 2024 8:02:05 PM service.CalculatorService calcOperations
-INFO: Начало операции: /, с параметрами 9.0 и 3.0
-июн. 29, 2024 8:02:05 PM service.CalculatorService calcOperations
-INFO: Операция деления чисел 9.0 и 3.0 отдает результат 3.0
+июн. 30, 2024 8:19:19 PM service.CalculatorService calcOperations
+INFO: Начало операции: -, с параметрами 4.0 + 6.0i и 3.0 + 1.0i
+июн. 30, 2024 8:19:19 PM service.CalculatorService calcOperations
+INFO: Операция вычитания чисел 4.0 + 6.0i и 3.0 + 1.0i отдает результат 1.0 + 5.0i
+июн. 30, 2024 8:19:39 PM service.CalculatorService calcOperations
+INFO: Начало операции: *, с параметрами 5.0 + 6.0i и 2.0 + 2.0i
+июн. 30, 2024 8:19:39 PM service.CalculatorService calcOperations
+INFO: Операция умножения чисел 5.0 + 6.0i и 2.0 + 2.0i отдает результат -2.0 + 22.0i
+июн. 30, 2024 8:19:56 PM service.CalculatorService calcOperations
+INFO: Начало операции: +, с параметрами 9.0 + 6.0i и 15.0 + 31.0i
+июн. 30, 2024 8:19:56 PM service.CalculatorService calcOperations
+INFO: Операция сложения чисел 9.0 + 6.0i и 15.0 + 31.0i отдает результат 24.0 + 37.0i
+июн. 30, 2024 8:21:26 PM service.CalculatorService calcOperations
+INFO: Начало операции: +, с параметрами 5.0 + 5.0i и 5.0 + 5.0i
+июн. 30, 2024 8:21:26 PM service.CalculatorService calcOperations
+INFO: Операция сложения чисел 5.0 + 5.0i и 5.0 + 5.0i отдает результат 10.0 + 10.0i
